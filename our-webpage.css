@@ -1,0 +1,12 @@
+.hero {
+    background-image: url(images/hero.jpg);
+    color: var(--blue95);
+}
+
+.hero h4 {
+    padding-top: 35px;
+}
+
+.hero h1 {
+    padding-top: 90px;
+}
